@@ -14,6 +14,6 @@ window.Webflow.push(() => {
 
   homeIndustryGrid();
 
-  const version = 'v0.0.2';
+  const version = 'v0.0.3';
   showVersion(version);
 });
